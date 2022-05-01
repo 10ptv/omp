@@ -1,0 +1,497 @@
+2022/04/30 00:34:20 [notice] 2108#6680: signal process started (quit)
+2022/04/30 00:34:20 [error] 2108#6680: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/30 00:34:20 [notice] 2412#10024: sockinit() attempting to access sockapi
+2022/04/30 00:34:20 [notice] 2412#10024: Access to sockapi succeded!
+2022/04/30 00:34:20 [notice] 2412#10024: using sockapi from "4;72;80;"
+2022/04/30 00:34:20 [notice] 4844#6408: sockinit() attempting to access sockapi
+2022/04/30 00:34:20 [notice] 4844#6408: Access to sockapi succeded!
+2022/04/30 00:34:20 [notice] 4844#6408: using sockapi from "4;8;12;"
+2022/04/30 00:34:48 [notice] 2968#4776: signal process started (quit)
+2022/04/30 00:34:48 [emerg] 4844#1884: closesocket() 0.0.0.0:80 failed (10038: An operation was attempted on something that is not a socket)
+2022/04/30 00:34:49 [emerg] 2412#8840: closesocket() 0.0.0.0:80 failed (10038: An operation was attempted on something that is not a socket)
+2022/04/30 00:39:22 [notice] 9580#11960: signal process started (quit)
+2022/04/30 00:39:22 [error] 9580#11960: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/30 00:39:22 [notice] 2088#7964: sockinit() attempting to access sockapi
+2022/04/30 00:39:22 [notice] 2088#7964: Access to sockapi succeded!
+2022/04/30 00:39:22 [notice] 2088#7964: using sockapi from "4;84;"
+2022/04/30 00:39:22 [notice] 7592#3516: sockinit() attempting to access sockapi
+2022/04/30 00:39:22 [notice] 7592#3516: Access to sockapi succeded!
+2022/04/30 00:39:22 [notice] 7592#3516: using sockapi from "4;8;"
+2022/04/30 00:44:13 [error] 2088#3748: *4 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.109, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "192.168.1.109", referrer: "http://192.168.1.109/viewer.html"
+2022/04/30 00:44:13 [error] 2088#3748: *4 CreateFile() "C:/nginx/srv/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.109, server: , request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.109", referrer: "http://192.168.1.109/viewer.html"
+2022/04/30 00:44:57 [error] 2088#3748: *3 CreateFile() "C:/nginx/srv/hls/stream.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.109, server: , request: "GET /hls/stream.m3u8 HTTP/1.1", host: "192.168.1.109", referrer: "http://192.168.1.109/viewer.html"
+2022/04/30 00:45:00 [error] 2088#3748: *4 CreateFile() "C:/nginx/srv/hls/stream.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.109, server: , request: "GET /hls/stream.m3u8 HTTP/1.1", host: "192.168.1.109", referrer: "http://192.168.1.109/viewer.html"
+2022/04/30 00:45:25 [error] 2088#3748: *3 CreateFile() "C:/nginx/srv/hls/stream.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.109, server: , request: "GET /hls/stream.m3u8 HTTP/1.1", host: "192.168.1.109", referrer: "http://192.168.1.109/viewer.html"
+2022/04/30 00:48:56 [error] 2088#3748: *8 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.109, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "192.168.1.109", referrer: "http://192.168.1.109/viewer.html"
+2022/04/30 00:49:14 [error] 2088#3748: *8 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.109, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "192.168.1.109", referrer: "http://192.168.1.109/viewer.html"
+2022/04/30 00:49:57 [error] 2088#3748: *11 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/viewer.html"
+2022/04/30 00:50:26 [error] 2088#3748: *11 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/viewer.html"
+2022/04/30 00:56:52 [error] 2088#3748: *15 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/viewer.html"
+2022/04/30 01:01:37 [error] 2088#3748: *21 CreateFile() "C:/nginx/srv/viwer.html" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /viwer.html HTTP/1.1", host: "26.18.235.84"
+2022/04/30 01:01:41 [error] 2088#3748: *21 CreateFile() "C:/nginx/srv/viwer.html" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /viwer.html HTTP/1.1", host: "26.18.235.84"
+2022/04/30 01:02:10 [error] 2088#3748: *22 CreateFile() "C:/nginx/srv/viwer.html" failed (2: The system cannot find the file specified), client: 192.168.1.104, server: , request: "GET /viwer.html HTTP/1.1", host: "192.168.1.109"
+2022/04/30 01:02:10 [error] 2088#3748: *22 CreateFile() "C:/nginx/srv/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.104, server: , request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.109", referrer: "http://192.168.1.109/viwer.html"
+2022/04/30 01:02:12 [error] 2088#3748: *22 CreateFile() "C:/nginx/srv/viwer.html" failed (2: The system cannot find the file specified), client: 192.168.1.104, server: , request: "GET /viwer.html HTTP/1.1", host: "192.168.1.109"
+2022/04/30 01:02:37 [error] 2088#3748: *22 CreateFile() "C:/nginx/srv/viwer.html" failed (2: The system cannot find the file specified), client: 192.168.1.104, server: , request: "GET /viwer.html HTTP/1.1", host: "192.168.1.109"
+2022/04/30 01:02:39 [error] 2088#3748: *22 CreateFile() "C:/nginx/srv/viwer.html" failed (2: The system cannot find the file specified), client: 192.168.1.104, server: , request: "GET /viwer.html HTTP/1.1", host: "192.168.1.109"
+2022/04/30 01:04:59 [error] 2088#3748: *18 CreateFile() "C:/nginx/srv/viewer.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /viewer.html HTTP/1.1", host: "localhost"
+2022/04/30 01:05:04 [error] 2088#3748: *18 CreateFile() "C:/nginx/srv/tvr.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /tvr.html HTTP/1.1", host: "localhost"
+2022/04/30 01:05:14 [error] 2088#3748: *26 CreateFile() "C:/nginx/srv/viewer.html" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /viewer.html HTTP/1.1", host: "26.18.235.84"
+2022/04/30 01:07:24 [error] 2088#3748: *31 CreateFile() "C:/nginx/srv/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /stream1.m3u8 HTTP/1.1", host: "localhost"
+2022/04/30 01:17:28 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:17:34 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:17:40 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:17:46 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:17:52 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:17:58 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:18:04 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:18:10 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:18:16 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:18:22 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:18:28 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:18:34 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:18:40 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:18:46 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:18:52 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:18:58 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:19:04 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:19:10 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:19:16 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:19:22 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:19:28 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:19:34 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:19:40 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:19:46 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:19:52 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:19:58 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:20:04 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:20:10 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:20:16 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:20:22 [error] 2088#3748: *35 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:20:29 [error] 2088#3748: *37 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:20:34 [error] 2088#3748: *37 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:22:10 [error] 2088#3748: *38 CreateFile() "C:/nginx/srv/hls/stream1.m3u" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:22:56 [error] 7592#8328: *40 directory index of "C:/nginx/srv/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "127.0.0.1"
+2022/04/30 01:22:56 [error] 7592#8328: *40 CreateFile() "C:/nginx/srv/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2022/04/30 01:32:54 [error] 7592#8328: *49 CreateFile() "C:/nginx/srv/hls/stream1-144.ts" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1-144.ts HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 01:34:40 [error] 7592#8328: *52 CreateFile() "C:/nginx/srv/tv html" failed (2: The system cannot find the file specified), client: 192.168.1.104, server: , request: "GET /tv%20html HTTP/1.1", host: "192.168.1.109"
+2022/04/30 01:41:27 [error] 2088#3748: *55 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:41:31 [error] 2088#3748: *55 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:41:36 [error] 2088#3748: *55 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:41:40 [error] 2088#3748: *55 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:41:45 [error] 2088#3748: *55 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:41:49 [error] 2088#3748: *55 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:41:54 [error] 2088#3748: *55 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 01:41:58 [error] 2088#3748: *56 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:41:27 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:41:32 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:41:38 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:41:42 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:41:47 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:41:53 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:41:58 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:42:02 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:42:07 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:42:12 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:42:17 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:42:23 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:42:27 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:42:32 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:42:38 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:42:43 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:42:47 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:42:53 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:42:58 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:43:02 [error] 7592#8328: *83 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 02:47:01 [error] 7592#8328: *90 directory index of "C:/nginx/srv/" is forbidden, client: 192.168.1.1, server: , request: "GET / HTTP/1.1", host: "26.18.235.84"
+2022/04/30 02:52:14 [error] 2088#3748: *94 directory index of "C:/nginx/srv/" is forbidden, client: 192.168.1.1, server: , request: "GET / HTTP/1.1", host: "26.18.235.84"
+2022/04/30 03:06:43 [error] 2088#3748: *106 directory index of "C:/nginx/srv/" is forbidden, client: 192.168.1.1, server: , request: "GET / HTTP/1.1", host: "26.18.235.84"
+2022/04/30 03:21:27 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:21:31 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:21:35 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:21:39 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:21:43 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:21:47 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:21:52 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:21:55 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:21:59 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:22:03 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:22:07 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:22:12 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:22:16 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:22:19 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:22:23 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:22:28 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:22:31 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:22:36 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:22:40 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:22:43 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:22:47 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:22:51 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:22:55 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:23:00 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:23:03 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:23:07 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:23:12 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:23:16 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:23:19 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:23:24 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:23:27 [error] 7592#8328: *117 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/tv.html"
+2022/04/30 03:35:38 [error] 2088#3748: *126 directory index of "C:/nginx/srv/" is forbidden, client: 192.168.1.1, server: , request: "GET / HTTP/1.1", host: "26.18.235.84"
+2022/04/30 03:40:55 [error] 2088#3748: *130 directory index of "C:/nginx/srv/" is forbidden, client: 192.168.1.1, server: , request: "GET / HTTP/1.1", host: "26.18.235.84"
+2022/04/30 03:40:57 [error] 2088#3748: *130 directory index of "C:/nginx/srv/" is forbidden, client: 192.168.1.1, server: , request: "GET / HTTP/1.1", host: "26.18.235.84"
+2022/04/30 03:40:59 [error] 2088#3748: *130 directory index of "C:/nginx/srv/" is forbidden, client: 192.168.1.1, server: , request: "GET / HTTP/1.1", host: "26.18.235.84"
+2022/04/30 03:42:22 [error] 7592#8328: *132 directory index of "C:/nginx/srv/" is forbidden, client: 192.168.1.1, server: , request: "GET / HTTP/1.1", host: "26.18.235.84"
+2022/04/30 04:01:21 [error] 7592#8328: *143 directory index of "C:/nginx/srv/" is forbidden, client: 192.168.1.109, server: , request: "GET / HTTP/1.1", host: "192.168.1.109"
+2022/04/30 04:01:30 [error] 7592#8328: *144 directory index of "C:/nginx/srv/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2022/04/30 04:08:23 [error] 7592#8328: *152 directory index of "C:/nginx/srv/" is forbidden, client: 192.168.1.1, server: , request: "GET / HTTP/1.1", host: "26.18.235.84"
+2022/04/30 04:10:11 [error] 7592#8328: *155 directory index of "C:/nginx/srv/" is forbidden, client: 192.168.1.1, server: , request: "GET / HTTP/1.1", host: "26.18.235.84"
+2022/04/30 18:08:32 [notice] 11664#13072: sockinit() attempting to access sockapi
+2022/04/30 18:08:32 [notice] 11664#13072: Access to sockapi succeded!
+2022/04/30 18:08:32 [notice] 11664#13072: using sockapi from "4;152;"
+2022/04/30 18:08:32 [notice] 5716#11296: sockinit() attempting to access sockapi
+2022/04/30 18:08:32 [notice] 5716#11296: Access to sockapi succeded!
+2022/04/30 18:08:32 [notice] 5716#11296: using sockapi from "4;8;"
+2022/04/30 18:08:46 [notice] 5260#9712: sockinit() attempting to access sockapi
+2022/04/30 18:08:46 [notice] 5260#9712: Access to sockapi succeded!
+2022/04/30 18:08:46 [notice] 5260#9712: using sockapi from "4;8;"
+2022/04/30 18:08:50 [notice] 7560#11376: sockinit() attempting to access sockapi
+2022/04/30 18:08:50 [notice] 7560#11376: Access to sockapi succeded!
+2022/04/30 18:08:50 [notice] 7560#11376: using sockapi from "4;8;"
+2022/04/30 18:09:01 [notice] 6152#6556: signal process started (quit)
+2022/04/30 18:09:01 [error] 6152#6556: OpenEvent("Global\ngx_quit_12804") failed (2: The system cannot find the file specified)
+2022/04/30 18:09:02 [notice] 7940#10300: sockinit() attempting to access sockapi
+2022/04/30 18:09:02 [notice] 7940#10300: Access to sockapi succeded!
+2022/04/30 18:09:02 [notice] 7940#10300: using sockapi from "4;80;"
+2022/04/30 18:09:02 [notice] 3600#11152: sockinit() attempting to access sockapi
+2022/04/30 18:09:02 [notice] 3600#11152: Access to sockapi succeded!
+2022/04/30 18:09:02 [notice] 3600#11152: using sockapi from "4;8;"
+2022/04/30 18:11:18 [notice] 7448#9328: sockinit() attempting to access sockapi
+2022/04/30 18:11:18 [notice] 7448#9328: Access to sockapi succeded!
+2022/04/30 18:11:18 [notice] 7448#9328: using sockapi from "4;8;"
+2022/04/30 18:11:37 [notice] 6000#10736: signal process started (quit)
+2022/04/30 18:11:43 [notice] 3612#3972: signal process started (quit)
+2022/04/30 18:11:43 [error] 3612#3972: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/30 18:11:43 [notice] 7564#5364: sockinit() attempting to access sockapi
+2022/04/30 18:11:43 [notice] 7564#5364: Access to sockapi succeded!
+2022/04/30 18:11:43 [notice] 7564#5364: using sockapi from "4;12;"
+2022/04/30 18:11:43 [notice] 3192#6300: sockinit() attempting to access sockapi
+2022/04/30 18:11:43 [notice] 3192#6300: Access to sockapi succeded!
+2022/04/30 18:11:43 [notice] 3192#6300: using sockapi from "4;8;"
+2022/04/30 18:12:09 [notice] 8384#2432: signal process started (quit)
+2022/04/30 18:12:35 [notice] 9372#9572: signal process started (quit)
+2022/04/30 18:12:35 [error] 9372#9572: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/30 18:12:44 [notice] 9860#13148: sockinit() attempting to access sockapi
+2022/04/30 18:12:44 [notice] 9860#13148: Access to sockapi succeded!
+2022/04/30 18:12:44 [notice] 9860#13148: using sockapi from "4;88;"
+2022/04/30 18:12:44 [notice] 11344#12504: sockinit() attempting to access sockapi
+2022/04/30 18:12:44 [notice] 11344#12504: Access to sockapi succeded!
+2022/04/30 18:12:44 [notice] 11344#12504: using sockapi from "4;8;"
+2022/04/30 18:24:52 [notice] 7232#11200: signal process started (quit)
+2022/04/30 18:25:00 [notice] 1104#7192: signal process started (quit)
+2022/04/30 18:25:00 [error] 1104#7192: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/30 18:25:01 [notice] 9912#10028: sockinit() attempting to access sockapi
+2022/04/30 18:25:01 [notice] 9912#10028: Access to sockapi succeded!
+2022/04/30 18:25:01 [notice] 9912#10028: using sockapi from "4;84;"
+2022/04/30 18:25:01 [notice] 7952#836: sockinit() attempting to access sockapi
+2022/04/30 18:25:01 [notice] 7952#836: Access to sockapi succeded!
+2022/04/30 18:25:01 [notice] 7952#836: using sockapi from "4;8;"
+2022/04/30 18:25:33 [notice] 12668#12252: signal process started (quit)
+2022/04/30 18:25:38 [notice] 4312#10276: signal process started (quit)
+2022/04/30 18:25:38 [error] 4312#10276: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/30 18:25:39 [notice] 13124#11224: sockinit() attempting to access sockapi
+2022/04/30 18:25:39 [notice] 13124#11224: Access to sockapi succeded!
+2022/04/30 18:25:39 [notice] 13124#11224: using sockapi from "4;80;"
+2022/04/30 18:25:39 [notice] 9916#9224: sockinit() attempting to access sockapi
+2022/04/30 18:25:39 [notice] 9916#9224: Access to sockapi succeded!
+2022/04/30 18:25:39 [notice] 9916#9224: using sockapi from "4;8;"
+2022/04/30 18:42:30 [notice] 3784#10792: signal process started (quit)
+2022/04/30 18:42:30 [error] 3784#10792: OpenEvent("Global\ngx_quit_13048") failed (2: The system cannot find the file specified)
+2022/04/30 18:42:31 [notice] 6676#9572: sockinit() attempting to access sockapi
+2022/04/30 18:42:31 [notice] 6676#9572: Access to sockapi succeded!
+2022/04/30 18:42:31 [notice] 6676#9572: using sockapi from "4;152;"
+2022/04/30 18:42:31 [notice] 9340#10844: sockinit() attempting to access sockapi
+2022/04/30 18:42:31 [notice] 9340#10844: Access to sockapi succeded!
+2022/04/30 18:42:31 [notice] 9340#10844: using sockapi from "4;8;"
+2022/04/30 18:43:57 [error] 9340#9104: *2 directory index of "C:/nginx/srv/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2022/04/30 18:43:57 [error] 9340#9104: *2 CreateFile() "C:/nginx/srv/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/04/30 18:48:31 [error] 6676#4032: *4 directory index of "C:/nginx/srv/" is forbidden, client: 192.168.1.1, server: , request: "GET / HTTP/1.1", host: "26.18.235.84"
+2022/04/30 18:50:22 [error] 9340#9104: *8 CreateFile() "C:/nginx/srv/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:02:16 [notice] 840#10892: signal process started (quit)
+2022/04/30 19:02:21 [notice] 12664#3832: signal process started (quit)
+2022/04/30 19:02:21 [error] 12664#3832: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/30 19:02:22 [notice] 5764#8560: sockinit() attempting to access sockapi
+2022/04/30 19:02:22 [notice] 5764#8560: Access to sockapi succeded!
+2022/04/30 19:02:22 [notice] 5764#8560: using sockapi from "4;80;84;"
+2022/04/30 19:02:22 [alert] 5764#7056: select ready != events: 1:2
+2022/04/30 19:02:22 [notice] 13152#9140: sockinit() attempting to access sockapi
+2022/04/30 19:02:22 [notice] 13152#9140: Access to sockapi succeded!
+2022/04/30 19:02:22 [notice] 13152#9140: using sockapi from "4;8;12;"
+2022/04/30 19:04:25 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:04:30 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:04:35 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:04:40 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:04:45 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:04:50 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:04:55 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:05:00 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:05:05 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:05:10 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:05:14 [emerg] 916#6688: "sendfile" directive is not allowed here in C:\nginx/conf/nginx.conf:37
+2022/04/30 19:05:15 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:05:18 [emerg] 5736#12480: "sendfile" directive is not allowed here in C:\nginx/conf/nginx.conf:37
+2022/04/30 19:05:20 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:05:25 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:05:30 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:05:35 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:05:40 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:05:45 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:05:50 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:05:55 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:06:00 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:06:05 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:06:10 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:06:15 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:06:20 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:06:25 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:06:30 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:06:35 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:06:40 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:06:45 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:06:50 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:06:55 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:07:00 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:07:05 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:07:10 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:07:15 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:07:20 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:07:25 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:07:30 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:07:35 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:07:40 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:07:45 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:07:50 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:07:55 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:08:00 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:08:05 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:08:10 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:08:15 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:08:20 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:08:25 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:08:30 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:08:35 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:08:40 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:08:45 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:08:50 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:08:55 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:09:00 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:09:05 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:09:10 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:09:15 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:09:20 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:09:25 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:09:30 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:09:35 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:09:40 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:09:45 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:09:50 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:09:55 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:10:00 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:10:05 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:10:10 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:10:15 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:10:20 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:10:25 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:10:30 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:10:35 [error] 5764#7056: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:10:40 [alert] 5764#7056: select ready != events: 1:2
+2022/04/30 19:10:40 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:10:43 [emerg] 5308#5964: unexpected "}" in C:\nginx/conf/nginx.conf:58
+2022/04/30 19:10:45 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:10:47 [emerg] 9960#7188: unexpected "}" in C:\nginx/conf/nginx.conf:58
+2022/04/30 19:10:48 [notice] 10712#11260: Fatal: wait for sockapi failed
+2022/04/30 19:10:50 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:10:55 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:11:00 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:11:05 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:11:10 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:11:15 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:11:20 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:11:25 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:11:30 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:11:35 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:11:40 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:11:45 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:11:50 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:11:55 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:12:00 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:12:05 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:12:10 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:12:15 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:12:20 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:12:25 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:12:30 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:12:35 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:12:40 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:12:45 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:12:50 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:12:55 [error] 5764#7056: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:13:00 [notice] 11024#12128: signal process started (quit)
+2022/04/30 19:13:00 [emerg] 5764#7056: closesocket() 0.0.0.0:80 failed (10038: An operation was attempted on something that is not a socket)
+2022/04/30 19:13:00 [emerg] 13152#5252: closesocket() 0.0.0.0:80 failed (10038: An operation was attempted on something that is not a socket)
+2022/04/30 19:13:05 [notice] 4204#6692: signal process started (quit)
+2022/04/30 19:13:05 [error] 4204#6692: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/30 19:13:05 [notice] 7784#11312: sockinit() attempting to access sockapi
+2022/04/30 19:13:05 [notice] 7784#11312: Access to sockapi succeded!
+2022/04/30 19:13:05 [notice] 7784#11312: using sockapi from "4;160;"
+2022/04/30 19:13:06 [notice] 6672#11220: sockinit() attempting to access sockapi
+2022/04/30 19:13:06 [notice] 6672#11220: Access to sockapi succeded!
+2022/04/30 19:13:06 [notice] 6672#11220: using sockapi from "4;8;"
+2022/04/30 19:13:07 [error] 7784#12440: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:13:12 [error] 7784#12440: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:13:17 [error] 7784#12440: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:13:22 [error] 7784#12440: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:13:27 [error] 7784#12440: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:13:32 [error] 7784#12440: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:13:37 [error] 7784#12440: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:13:40 [notice] 5116#8764: signal process started (quit)
+2022/04/30 19:13:42 [error] 7784#12440: *2 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:13:45 [notice] 10488#8676: signal process started (quit)
+2022/04/30 19:13:45 [error] 10488#8676: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/30 19:13:46 [notice] 7820#12936: sockinit() attempting to access sockapi
+2022/04/30 19:13:46 [notice] 7820#12936: Access to sockapi succeded!
+2022/04/30 19:13:46 [notice] 7820#12936: using sockapi from "4;88;"
+2022/04/30 19:13:46 [notice] 9372#8848: sockinit() attempting to access sockapi
+2022/04/30 19:13:46 [notice] 9372#8848: Access to sockapi succeded!
+2022/04/30 19:13:46 [notice] 9372#8848: using sockapi from "4;8;"
+2022/04/30 19:13:47 [error] 7820#2756: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:13:52 [error] 7820#2756: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:13:57 [error] 7820#2756: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:14:02 [error] 7820#2756: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:14:06 [notice] 9036#8884: signal process started (quit)
+2022/04/30 19:14:11 [notice] 9328#2740: signal process started (quit)
+2022/04/30 19:14:11 [error] 9328#2740: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/30 19:14:12 [notice] 11384#8396: sockinit() attempting to access sockapi
+2022/04/30 19:14:12 [notice] 11384#8396: Access to sockapi succeded!
+2022/04/30 19:14:12 [notice] 11384#8396: using sockapi from "4;148;"
+2022/04/30 19:14:12 [notice] 11376#6480: sockinit() attempting to access sockapi
+2022/04/30 19:14:12 [notice] 11376#6480: Access to sockapi succeded!
+2022/04/30 19:14:12 [notice] 11376#6480: using sockapi from "4;8;"
+2022/04/30 19:14:14 [error] 11384#8984: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:14:19 [error] 11384#8984: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:14:24 [error] 11384#8984: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:14:29 [error] 11384#8984: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:14:34 [error] 11384#8984: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:14:39 [error] 11384#8984: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:14:44 [error] 11384#8984: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:14:49 [error] 11384#8984: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:14:54 [error] 11384#8984: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:14:59 [error] 11384#8984: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:15:04 [error] 11384#8984: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:15:09 [error] 11384#8984: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:15:14 [error] 11384#8984: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:15:19 [error] 11384#8984: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:15:24 [error] 11384#8984: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:15:29 [error] 11384#8984: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:15:34 [error] 11384#8984: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:15:35 [notice] 8468#7832: signal process started (quit)
+2022/04/30 19:15:40 [notice] 5472#7996: signal process started (quit)
+2022/04/30 19:15:40 [error] 5472#7996: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/30 19:15:41 [notice] 356#12204: sockinit() attempting to access sockapi
+2022/04/30 19:15:41 [notice] 356#12204: Access to sockapi succeded!
+2022/04/30 19:15:41 [notice] 356#12204: using sockapi from "4;76;"
+2022/04/30 19:15:41 [notice] 1788#13104: sockinit() attempting to access sockapi
+2022/04/30 19:15:41 [notice] 1788#13104: Access to sockapi succeded!
+2022/04/30 19:15:41 [notice] 1788#13104: using sockapi from "4;8;"
+2022/04/30 19:15:42 [error] 356#1576: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:15:47 [error] 356#1576: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:15:52 [error] 356#1576: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:15:57 [error] 356#1576: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:16:02 [error] 356#1576: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:16:07 [error] 356#1576: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:16:12 [error] 356#1576: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:16:17 [error] 356#1576: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:16:22 [error] 356#1576: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:16:27 [error] 356#1576: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:16:32 [error] 356#1576: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:16:37 [error] 356#1576: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:16:42 [error] 356#1576: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:16:47 [error] 356#1576: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:16:52 [notice] 1316#8324: signal process started (quit)
+2022/04/30 19:16:56 [notice] 1508#8124: signal process started (quit)
+2022/04/30 19:16:56 [error] 1508#8124: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/30 19:16:57 [notice] 9076#6360: sockinit() attempting to access sockapi
+2022/04/30 19:16:57 [notice] 9076#6360: Access to sockapi succeded!
+2022/04/30 19:16:57 [notice] 9076#6360: using sockapi from "4;84;"
+2022/04/30 19:16:57 [notice] 2792#10064: sockinit() attempting to access sockapi
+2022/04/30 19:16:57 [notice] 2792#10064: Access to sockapi succeded!
+2022/04/30 19:16:57 [notice] 2792#10064: using sockapi from "4;8;"
+2022/04/30 19:16:59 [error] 9076#7752: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:17:04 [error] 9076#7752: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:17:09 [error] 9076#7752: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:17:13 [error] 9076#7752: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:17:14 [error] 9076#7752: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:19:58 [notice] 7196#4012: signal process started (quit)
+2022/04/30 19:20:02 [notice] 1076#10820: signal process started (quit)
+2022/04/30 19:20:02 [error] 1076#10820: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/30 19:20:03 [notice] 5368#13240: sockinit() attempting to access sockapi
+2022/04/30 19:20:03 [notice] 5368#13240: Access to sockapi succeded!
+2022/04/30 19:20:03 [notice] 5368#13240: using sockapi from "4;80;"
+2022/04/30 19:20:03 [notice] 9644#5192: sockinit() attempting to access sockapi
+2022/04/30 19:20:03 [notice] 9644#5192: Access to sockapi succeded!
+2022/04/30 19:20:03 [notice] 9644#5192: using sockapi from "4;8;"
+2022/04/30 19:20:17 [notice] 10844#9064: signal process started (quit)
+2022/04/30 19:20:18 [notice] 7204#7360: sockinit() attempting to access sockapi
+2022/04/30 19:20:18 [notice] 7204#7360: Access to sockapi succeded!
+2022/04/30 19:20:18 [notice] 7204#7360: using sockapi from "4;76;"
+2022/04/30 19:20:18 [notice] 8420#1616: sockinit() attempting to access sockapi
+2022/04/30 19:20:18 [notice] 8420#1616: Access to sockapi succeded!
+2022/04/30 19:20:18 [notice] 8420#1616: using sockapi from "4;8;"
+2022/04/30 19:20:48 [error] 7204#2164: *1 directory index of "C:/nginx/srv/" is forbidden, client: 192.168.1.1, server: , request: "GET / HTTP/1.1", host: "26.18.235.84"
+2022/04/30 19:21:54 [error] 7204#2164: *1 directory index of "C:/nginx/srv/" is forbidden, client: 192.168.1.1, server: , request: "GET / HTTP/1.1", host: "26.18.235.84"
+2022/04/30 19:36:20 [notice] 1152#3716: signal process started (quit)
+2022/04/30 19:36:32 [notice] 2520#1532: signal process started (quit)
+2022/04/30 19:36:32 [error] 2520#1532: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/30 19:41:47 [notice] 1524#9464: signal process started (quit)
+2022/04/30 19:41:47 [error] 1524#9464: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/30 19:41:48 [notice] 2924#8276: sockinit() attempting to access sockapi
+2022/04/30 19:41:48 [notice] 2924#8276: Access to sockapi succeded!
+2022/04/30 19:41:48 [notice] 2924#8276: using sockapi from "4;84;"
+2022/04/30 19:41:48 [notice] 10504#12244: sockinit() attempting to access sockapi
+2022/04/30 19:41:48 [notice] 10504#12244: Access to sockapi succeded!
+2022/04/30 19:41:48 [notice] 10504#12244: using sockapi from "4;8;"
+2022/04/30 19:41:50 [error] 2924#12924: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:41:55 [error] 2924#12924: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:42:00 [error] 2924#12924: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 19:44:38 [notice] 11336#860: signal process started (quit)
+2022/04/30 20:05:30 [notice] 5184#7688: signal process started (quit)
+2022/04/30 20:05:30 [error] 5184#7688: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/04/30 20:05:31 [notice] 11760#7940: sockinit() attempting to access sockapi
+2022/04/30 20:05:31 [notice] 11760#7940: Access to sockapi succeded!
+2022/04/30 20:05:31 [notice] 11760#7940: using sockapi from "4;152;"
+2022/04/30 20:05:31 [notice] 11176#5988: sockinit() attempting to access sockapi
+2022/04/30 20:05:31 [notice] 11176#5988: Access to sockapi succeded!
+2022/04/30 20:05:31 [notice] 11176#5988: using sockapi from "4;8;"
+2022/04/30 20:05:32 [error] 11760#4720: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 20:05:37 [error] 11760#4720: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 20:05:42 [error] 11760#4720: *1 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 20:15:31 [error] 11760#4720: *9 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 20:15:36 [error] 11760#4720: *9 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 20:15:41 [error] 11760#4720: *9 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 20:15:46 [error] 11760#4720: *9 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 20:15:51 [error] 11760#4720: *9 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 20:15:55 [error] 11760#4720: *9 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 20:15:59 [error] 11760#4720: *9 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 20:16:03 [error] 11760#4720: *9 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 20:16:07 [error] 11760#4720: *9 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 20:16:11 [error] 11760#4720: *9 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 20:16:15 [error] 11760#4720: *9 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 20:16:19 [error] 11760#4720: *9 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 20:16:23 [error] 11760#4720: *9 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 20:16:27 [error] 11760#4720: *9 CreateFile() "C:/nginx/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "26.18.235.84", referrer: "http://26.18.235.84/tv.html"
+2022/04/30 20:18:42 [error] 11760#4720: *14 CreateFile() "C:/nginx/srv/hls/stream1-41.ts" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1-41.ts HTTP/1.1", host: "26.18.235.84"
+2022/04/30 20:18:42 [error] 11760#4720: *15 CreateFile() "C:/nginx/srv/hls/stream1-41.ts" failed (2: The system cannot find the file specified), client: 192.168.1.1, server: , request: "GET /hls/stream1-41.ts HTTP/1.1", host: "26.18.235.84"
+2022/04/30 20:48:15 [error] 11760#4720: *30 directory index of "C:/nginx/srv/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2022/04/30 20:48:27 [error] 11760#4720: *30 CreateFile() "C:/nginx/srv/dashboard" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /dashboard HTTP/1.1", host: "localhost"
+2022/04/30 20:48:31 [error] 11760#4720: *30 CreateFile() "C:/nginx/srv/dashboard" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /dashboard HTTP/1.1", host: "localhost"
+2022/04/30 20:55:52 [notice] 12504#5540: signal process started (quit)
