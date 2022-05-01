@@ -495,3 +495,14 @@
 2022/04/30 20:48:27 [error] 11760#4720: *30 CreateFile() "C:/nginx/srv/dashboard" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /dashboard HTTP/1.1", host: "localhost"
 2022/04/30 20:48:31 [error] 11760#4720: *30 CreateFile() "C:/nginx/srv/dashboard" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /dashboard HTTP/1.1", host: "localhost"
 2022/04/30 20:55:52 [notice] 12504#5540: signal process started (quit)
+2022/05/01 01:18:47 [notice] 9352#1880: signal process started (quit)
+2022/05/01 01:18:47 [error] 9352#1880: CreateFile() "C:\xampp\htdocs\omp\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/05/01 01:18:47 [notice] 5636#4176: sockinit() attempting to access sockapi
+2022/05/01 01:18:47 [notice] 5636#4176: Access to sockapi succeded!
+2022/05/01 01:18:47 [notice] 5636#4176: using sockapi from "4;68;"
+2022/05/01 01:18:48 [notice] 11284#5108: sockinit() attempting to access sockapi
+2022/05/01 01:18:48 [notice] 11284#5108: Access to sockapi succeded!
+2022/05/01 01:18:48 [notice] 11284#5108: using sockapi from "4;8;"
+2022/05/01 01:18:52 [error] 5636#2080: *1 CreateFile() "C:/nginx/srv/ipt/wp-admin/admin-ajax.php" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "POST /ipt/wp-admin/admin-ajax.php HTTP/1.1", host: "localhost", referrer: "http://localhost/ipt/wp-admin/admin.php?page=simply-static"
+2022/05/01 01:19:21 [notice] 9720#11924: signal process started (quit)
+2022/05/01 01:19:52 [error] 5636#2080: *2 CreateFile() "C:/nginx/srv/ipt/wp-admin/admin-ajax.php" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "POST /ipt/wp-admin/admin-ajax.php HTTP/1.1", host: "localhost", referrer: "http://localhost/ipt/wp-admin/admin.php?page=simply-static"
